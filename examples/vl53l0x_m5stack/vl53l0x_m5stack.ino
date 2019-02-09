@@ -1,5 +1,5 @@
 /* This example shows how to take
-range measurements with the VL53L0X and display on a SSD1306 OLED.
+range measurements with the VL53L0X and M5Stack.
 
 The range readings are in units of mm. */
 
